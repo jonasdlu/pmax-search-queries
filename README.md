@@ -15,7 +15,9 @@ Chrome Extension that can export search queries from a Performance Max campaign 
 	1. Open the Extension Management page by navigating to [chrome://extensions](chrome://extensions)
 	2. Enable Developer Mode by clicking the toggle switch next to Developer mode.
 	3. Click the LOAD UNPACKED button and select the extension directory.
+
 3. Pin the extension in the extension area (puzzle icon).
+![Chrome Extension Pin](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTNW1waXPHc3RI2Du8KHe1QIes_iEtG4_AwyQa3EwWQHrQfnUmysPVe1iYrRA6KBHpijS9Va3l2UzvBsIMBAdQF8AiRCw=w1742-h885)
 
 ## Usage
 
