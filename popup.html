@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PMAX Search Query Export</title>
+</head>
+<body>
+  
+  <!-- Always shows a header, even in smaller screens. -->
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      <span class="mdl-layout-title">Copy PMAX Search Queries</span>
+    </div>
+  </header>
+  <main class="mdl-layout__content">
+    <div class="page-content">
+      <div class="demo-card-square mdl-card mdl-shadow--2dp">
+        <div class="mdl-layout-spacer"></div>
+        <!-- Number badge -->
+        <div class="mdl-grid">
+          <div><span class="mdl-badge" id="number-of-elements" data-badge="0">Saved search queries</span></div>
+        </div>
+        <div class="mdl-card__actions mdl-card--border">
+          <div class="mdl-grid">
+            <div class="mdl-cell mdl-cell--2-col"><button id="get-search-queries" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Get Queries</button></div>
+            <div class="mdl-cell mdl-cell--2-col"><button id="alert-array" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">Show Table</button></div>
+            <div class="mdl-cell mdl-cell--2-col"><button id="empty-array" class="mdl-button mdl-js-button mdl-button--raised">Empty Table</button></div>
+            <div class="mdl-cell mdl-cell--2-col"><button id="download-array" class="mdl-button mdl-js-button mdl-button--raised">Download CSV</button></div>
+          </div>
+        </div>
+        </div>
+    </div>
+  </main>
+    <script src="popup.js"></script>
+    <link rel="stylesheet" href="./material.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <script src="./material.min.js"></script>
+</body>
+</html>
