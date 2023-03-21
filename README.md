@@ -10,7 +10,7 @@ This is a open source project to export structured data from the HTML of a webpa
 The extension has no capability to change anything in Google Ads accounts and works locally in the browser.
 
 ## Screenshots
-![Chrome Extension Screenshot](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEORPff7yoBJaEa3-bh16tJn5aUX6ZgauwW2rX27_I4jl4O7c4I9Pdowk23yVNvQFvJ2owygVvXfrd7h3_q5ZFmrugf10EA=w1742-h1162)
+![screenshot-pmax-search-queries](https://user-images.githubusercontent.com/115698370/226639947-1c342eaa-b687-4bb3-9dae-dcdbbe548496.png)
 
 ## Installation
 
@@ -21,7 +21,7 @@ The extension has no capability to change anything in Google Ads accounts and wo
 	3. Click the LOAD UNPACKED button and select the extension directory.
 
 3. Pin the extension in the extension area (puzzle icon).
-![Chrome Extension Pin](https://lh3.googleusercontent.com/u/0/drive-viewer/AAOQEOTNW1waXPHc3RI2Du8KHe1QIes_iEtG4_AwyQa3EwWQHrQfnUmysPVe1iYrRA6KBHpijS9Va3l2UzvBsIMBAdQF8AiRCw=w1742-h885)
+![screenshot-pmax-search-queries_pin](https://user-images.githubusercontent.com/115698370/226639736-316fd2bf-0b76-4993-b200-da959b32f71b.png)
 
 ## Usage
 
